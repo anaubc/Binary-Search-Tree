@@ -2,7 +2,8 @@
 ## Overview
 This code is from an assignment from my *Data Structures and Algorithms* course from my program. 
 It is a C++ implementation of a Binary Search Tree (BST), which allows for efficient insertion, deletion and search operations.
-We were tasked to implement some functions according to the constraints from the *binary-search-tree.h* file provided.
+We were tasked to implement some functions according to the constraints from the *binary-search-tree.h* file provided. 
+Throughout this course, we were also tasked to test our code. We were given directions on what to check for and would use the *Debug* mode in CLion to go through each method we implemented. 
 ## Main Features
 + **Insertion**: Adds a new element to the BST while maintaining the binary search tree property.
 + **Deletion**: Removes an element from the BST and properly restructures the tree.
